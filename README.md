@@ -1,5 +1,7 @@
 Developing ScribeFire
 =====================
+
+[![Join the chat at https://gitter.im/kabit999/scribefire-chrome](https://badges.gitter.im/kabit999/scribefire-chrome.svg)](https://gitter.im/kabit999/scribefire-chrome?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 ScribeFire for Chrome, Firefox, Safari, and Opera uses the same base code for all four browsers. This base is found in chrome/scribefire/.  The build scripts for each browser copy the base code, add/remove any browser-specific files, and package ScribeFire for that browser.  Specific instructions on build for each browser are found in the browser subdirectories.
 
 Localization
